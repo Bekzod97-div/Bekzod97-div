@@ -1,14 +1,17 @@
-<h3 align="center">Frontend developer</h3>
+#Bekzot Khushmamatov
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, Sass, Bootstrap, BEM, React**
-
-- 📫 Email: **xushmatofbekzod@gmail.com**
+Frontend developer. I have been learning Frontend development since 2022... I am currently learning Javascript more deeply and to work with its React framework.
 
 <h3 align="left">Connect with me:</h3>
+
+[✉ Email](mailto:xushmatofbekzod@gmail.com) | [🗯 Telegram](https://t.me/Bekzod9717)
 <p align="left">
 <a href="https://linkedin.com/in/bekzot khushmamatov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bekzot khushmamatov" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/4Quhg5eU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4Quhg5eU" height="30" width="40" /></a>
 </p>
+
+
+- 🌱 I’m currently learning **HTML, CSS, Javascript, Sass, Bootstrap, BEM, React**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
