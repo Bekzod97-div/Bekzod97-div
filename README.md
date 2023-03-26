@@ -1,4 +1,4 @@
-### Hi there 👋
+Bekzot Khushmamatov
 
 <!--
 **Bekzod97-div/Bekzod97-div** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
